@@ -1,6 +1,6 @@
 .App {
   text-align: left;
-  background-image: url(images/maya-view2.JPG);
+  background-image: url(images/maya-view5.jpg);
   background-size: 100%;
   min-height: 100vh;
 }
@@ -46,7 +46,7 @@
 .sidenav a {
   font-family: Bahnschrift, DIN, "DIN Alternate", "Roboto Condensed", sans-serif;
   font-size: 30px;
-  padding: 6px 8px 6px 16px;
+  padding: 6px 8px 2px 16px;
   text-decoration: none;
   display: block;
   color: white;
@@ -66,11 +66,16 @@ a:hover {
   transform: scale(1.03);
 }
 
+
+.modeling img {
+  transition: all 0.2s linear;
+} 
+
 .modeling img:hover {
   position: relative;
   transform: scale(1.05);
-  transition: all 0.5s;
 }
+
 
 .fade-appear,
 .fade-enter {
@@ -86,12 +91,13 @@ a:hover {
 
 .fade-exit {
   opacity: 1;
+
 }
 
 .fade-exit.fade-exit-active {
   opacity: 1;
   transition: opacity 200ms linear 200ms;
-}
+} 
 
 .App-link {
   color: #61dafb;
@@ -106,12 +112,16 @@ a:hover {
   display: block;
 }
 
+.home {
+  background: none;
+}
+
 .resume, 
 .modeling,
 .contact {
   padding: 3em 3em 1em 3em;
   background: white;
-  border: solid 10px rgba(233, 15, 15, 1.0);
+  border: solid 7px rgba(233, 15, 15, 1.0);
   margin: 5em 15em 3em 3em;
   position: relative; 
   display: block;
