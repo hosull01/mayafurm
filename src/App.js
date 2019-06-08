@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import Header from './components/Header';
 import Home from './views/Home';
 import Resume from './views/Resume';
 import Modeling from './views/Modeling';
@@ -15,6 +16,7 @@ function App() {
     <div className="App">
       <Router>
         <div className="wrapper">
+          <Header />
           <div className="sidenav">
             <li> 
               <Link to="/">HOME</Link>
@@ -45,11 +47,14 @@ function App() {
           </div>
         </div>
       </Router>
-      <div className="footer">
-            <p>© 2019 Harry O'Sullivan Productions. All Rights Reserved.</p>
-      </div>
+      
     </div>
   );
 }
 
 export default App;
+
+/*
+<div className="footer">
+            <p>© 2019 Harry O'Sullivan Productions. All Rights Reserved.</p>
+      </div>*/

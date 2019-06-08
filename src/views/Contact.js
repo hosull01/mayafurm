@@ -1,7 +1,5 @@
 import React from 'react';
 
-
-
 export default class Contact extends React.Component {
     constructor(props) {
         super(props)
@@ -12,12 +10,11 @@ export default class Contact extends React.Component {
         <div className="contact">
             <header>
                 <div className="title">
-                    <h2>Contact Me!</h2>
+                    <h2>Contact</h2>
                 </div>
             </header>
-            Info Here
+            <p>mayafurm94@gmail.com</p>
         </div>
         )
     }
-
 }
