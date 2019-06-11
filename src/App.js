@@ -25,7 +25,7 @@ function App() {
               <Link to="/resume">RESUME</Link>
             </li>
             <li> 
-              <Link to="/modeling">PHOTOSHOOTS</Link>
+              <Link to="/modeling">PHOTOGRAPHY</Link>
             </li>
             <li> 
               <Link to="/contact">CONTACT</Link>
