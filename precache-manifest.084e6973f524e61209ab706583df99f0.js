@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "431e9c85dde6e3ea10264b44d484138f",
+    "revision": "78d354f6166297b3b6957a4bebe84f7a",
     "url": "/mayafurm/index.html"
   },
   {
-    "revision": "7000ebd36a43a62baed8",
+    "revision": "1445b66cb8221ccbbcbb",
     "url": "/mayafurm/static/css/main.cfb11b9f.chunk.css"
   },
   {
-    "revision": "31b7b698b2b163d94f0a",
-    "url": "/mayafurm/static/js/2.0a8e3450.chunk.js"
+    "revision": "8f2486e5e444ab744643",
+    "url": "/mayafurm/static/js/2.e58f5ab8.chunk.js"
   },
   {
-    "revision": "7000ebd36a43a62baed8",
-    "url": "/mayafurm/static/js/main.1a79d0e7.chunk.js"
+    "revision": "1445b66cb8221ccbbcbb",
+    "url": "/mayafurm/static/js/main.19232d35.chunk.js"
   },
   {
     "revision": "6b23807d86fc8e170ca4",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mayafurm/precache-manifest.252068d21ffaa60016462feb355ebde5.js"
+  "/mayafurm/precache-manifest.084e6973f524e61209ab706583df99f0.js"
 );
 
 self.addEventListener('message', (event) => {
