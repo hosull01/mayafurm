@@ -5,7 +5,7 @@ My name is Maya Furmanovsky and I work in <span style="font-weight:bold;color:re
 My role has taught me how to build key relationships with clients, manage expectations, and deliver long-term projects of value. I have also learned to present new ideas (see here). 
 <br><br>
 #### Project Experience
-- Japan National Tourism Organization (March 2019 - present): advising JNTO's marketing strategy for the upcoming Tokyo2020 Olympic Games
+- Client A (March 2019 - present): advising Client A's marketing strategy for the upcoming Tokyo2020 Olympic Games
 - Loreal Cosemetics (April 2018- March 2019): expanding Loreal's cosemtics brand in Tokyo via targeting marketing/events
 - Client B (September 2017 - April 2018): blah
 <br><br>
