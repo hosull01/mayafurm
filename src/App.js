@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
+import { BrowserRouter as Router, HashRouter, Route, Link, Switch } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './views/Home';
 import Resume from './views/Resume';
@@ -14,7 +14,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter basename="/">
         <div className="wrapper">
           <Header />
           <div className="sidenav">
@@ -46,7 +46,7 @@ function App() {
             )} />        
           </div>
         </div>
-      </Router>
+      </HashRouter>
       
     </div>
   );
